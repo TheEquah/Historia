@@ -21,5 +21,11 @@ C library for Historia.
 
 Repository: [TheEquah/Historia-c](https://github.com/TheEquah/Historia-c/)
 
+## Python 3
+
+Python 3 package for Historia.
+
+Repository: [TheEquah/Historia-python3](https://github.com/TheEquah/Historia-python3/)
+
 --------------------------------------------------------------------------------
 
